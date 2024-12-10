@@ -55,7 +55,7 @@ BaseUrl = https://url-base-dos-arquivos.com/
 2. Configure o arquivo `config.ini` com as informações corretas.
 3. Execute o script com o comando:
    ```bash
-   python script.py
+   python mobi.py
    ```
 
 ---
